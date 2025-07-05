@@ -22,6 +22,11 @@ nuzhat_portfolio/
 ├── style.css # Custom styles
 └── NUZHAT_TASNIM_RIFA_CV.pdf # Resume (downloadable)
 
+# Nuzhat Portfolio
+
+🔗 **Live Website**: [Visit My Portfolio](https://nr22aap.github.io/nuzhat_portfolio/)
+
+Welcome to my personal portfolio repository!
 
 
 ##  Contact
